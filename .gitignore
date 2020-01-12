@@ -1,0 +1,7 @@
+venv/
+*.pyc
+*.swo
+*.swp
+.idea/
+myconfig.py
+local_settings.py
